@@ -11,7 +11,7 @@ My favourite quote is <br />
 **An important code to me is:** <br />
 `System.out.print("Hello World");` <br />
 This site was built using [GitHub Pages](https://github.com/keandrizzle). <br />
-[Intro](#my-introduction). <br />
+[Intro](#My Introduction). <br />
 [This is a relative link](./README.md) <br />
 - this
 - is
