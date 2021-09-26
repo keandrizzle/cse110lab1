@@ -1,8 +1,8 @@
-# My Introduction
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg).
-**Zhenyu Zhang**
-*UCSD Student*
-~~Highschool student~~
+# My Introduction\
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg).\
+**Zhenyu Zhang**\
+*UCSD Student*\
+~~Highschool student~~\
 **I like photograph**
 ***My favourite language is JAVA***
 My favourite quote is
